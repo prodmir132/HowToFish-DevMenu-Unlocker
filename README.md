@@ -9,7 +9,8 @@
 ## 🚀 Инструкция по установке:
 1. Перейдите в раздел **Releases** в правой части этой страницы и скачайте актуальный `.zip` архив.
 2. Распакуйте содержимое архива прямо в **корневую папку игры** (туда, где лежит файл `HowToFish.exe`).
-3. Запустите игру и наслаждайтесь скрытыми функциями!
+3. Снизу справа будет версия игры. Нажмите на неё 1 раз, если она пропала поздравляю вы включили читы
+4. Наслаждайтесь скрытыми функциями!
 
 *Разработано с использованием BepInEx и Harmony.*
 
@@ -26,6 +27,7 @@ This mod pack automatically activates the built‑in official developer mode in 
 ## 🚀 Installation instructions:
 1. Go to the **Releases** section on the right side of this page and download the latest `.zip` archive.
 2. Unpack the contents of the archive directly into the **game’s root folder** (the folder where the `HowToFish.exe` file is located).
-3. Launch the game and enjoy the hidden features!
+3. At the bottom right, you’ll see the game version. Click on it once; if it disappears, congratulations — you’ve enabled cheats.
+4. Enjoy the hidden features!
 
 *Developed using BepInEx and Harmony.*
